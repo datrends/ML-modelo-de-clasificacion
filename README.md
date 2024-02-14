@@ -1,1 +1,1 @@
-# ML-modelo-de-clasificacion
+# Modelo de clasificación binaria (Machine Learning básico)
